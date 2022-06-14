@@ -13,3 +13,4 @@ This repo contains tasks from our CTF
   - https://gitlab.com/TheLaluka/all-it-takes-is-a-mbean
   - https://gitlab.com/TheLaluka/headless-updateless-brainless
   - https://gitlab.com/TheLaluka/fast-and-secure 
+  - https://github.com/OsaAjani/sthack-chall-2022
